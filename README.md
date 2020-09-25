@@ -1,0 +1,2 @@
+# Freesurface-
+The use of rotating drums is vastly used in the mining, metallurgy, chemical and pharmaceutical industries with the purpose of mixing, drying, granulation, milling and kilns. This code focuses on the free surface modelling of a rotating drum used in the milling industry with the objective of developing the free surface curve and a  comparative study of the varying parameters on the curve. 
